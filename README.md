@@ -31,5 +31,6 @@ My email: Jorneriksen79@gmail.com
 My discord ID: jornerik
 
 My Submission Link: https://dune.com/jorn79/curve-trading-volume-and-dynamics 
+
 My Report Link: https://market.oceanprotocol.com/asset/did:op:a2af03b40a854a65e411f4c427fc4644452fb956c1f952cc71897502b9539bb1
 
